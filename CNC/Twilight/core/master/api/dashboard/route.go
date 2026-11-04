@@ -1,7 +1,0 @@
-package dashboardapi
-
-import "api/core/models/server"
-
-var (
-	Route *server.Route = server.NewSubRouter("/dashboard")
-)
