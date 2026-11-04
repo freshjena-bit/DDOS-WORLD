@@ -1,1 +1,0 @@
-apt update; apt upgrade; apt install nodejs; apt install npm; npm i axios && npm i fake-useragent && npm i request && npm i fs && npm i net && npm i cloudscraper && npm i colors;
