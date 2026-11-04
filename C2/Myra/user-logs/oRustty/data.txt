@@ -1,5 +1,0 @@
-.whois
-.whois
-
-.attacks
-.attacks
